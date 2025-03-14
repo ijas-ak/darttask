@@ -20,4 +20,6 @@ class Person {
 void main() {
   Person p1 = Person(password: 'ijasak123', name: "ijas ak");
   p1.persondetails();
+  Person p2 = Person(password: 'muhiajs', name: "gvghgh");
+  p2.persondetails();
 }
