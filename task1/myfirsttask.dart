@@ -1,5 +1,3 @@
-import 'package:myfirsttask/myfirsttask.dart' as myfirsttask;
-
 void main() {
   //If case Student grade//-
   var mark = 75;
